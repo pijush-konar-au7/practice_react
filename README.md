@@ -1,7 +1,7 @@
 # Practice React Test
 
 ## Create DB file in config
- make a file named default.json
+ Make a file named default.json in the config folder
  In the following format -
  
 ```sh
